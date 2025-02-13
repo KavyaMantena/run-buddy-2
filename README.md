@@ -16,5 +16,3 @@ https://kavyamantena.github.io/run-buddy-2/
 ## Contribution
 
 Made with ❤️ by Kavya Mantena
-
-# Run Buddy Inc.
