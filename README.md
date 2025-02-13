@@ -1,17 +1,20 @@
 # Run Buddy
 
-
 ## Purpose
-A webiste that offers fitness training services.
 
+A webiste that offers fitness training services.
 
 ## Built With
 
-* HTML
-* CSS
+- HTML
+- CSS
 
 ## Website
+
 https://kavyamantena.github.io/run-buddy-2/
 
 ## Contribution
+
 Made with ❤️ by Kavya Mantena
+
+# Run Buddy Inc.
